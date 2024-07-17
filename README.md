@@ -22,5 +22,5 @@ This project involved digital forensic analysis, focusing on automated HDD and m
 ## results
 <img width="528" alt="image" src="https://github.com/user-attachments/assets/4d8520fc-68d9-4e92-8f04-86ccd76147ad">
 
-*Ref 1: directory containing the scripts rresults and report file*
+*Ref 1: directory containing the scripts results and report file*
 
